@@ -7,7 +7,7 @@ class Program
 
         const double CENTIMETERS_IN_INCHES = 2.54;
 
-        double inches = 5;
+        double inches = 50;
 
         double centimeters = inches * CENTIMETERS_IN_INCHES;
 
